@@ -1,9 +1,8 @@
-# drowsiness-detection
+# library-library yang harus diinstall
 **Python packages required:**
 * cvzone 1.5.6
 * mediapipe 0.8.9.1
 * pyfirmata 1.1.0
-* pyglet 1.5.23
 
 **Arduino Configuration**
 - Open IDE Arduino
